@@ -11,3 +11,5 @@ echo -e " please provide correct number of arguments"
 else
 echo " sum of $1 + $2 is `expr $1 + $2` "
 fi
+
+#Output : sum of 10 + 25 is 35
