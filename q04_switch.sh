@@ -1,7 +1,7 @@
 #Q : Write Script, using case statement to perform basic arithmetic operations.
 
-#filename : q4_switch.sh
-#command to run : bash q4_switch.sh
+#filename : q04_switch.sh
+#command to run : bash q04_switch.sh
 # Enter the a value : 5
 #Enter the a value : 6
 
