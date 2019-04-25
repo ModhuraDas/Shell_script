@@ -1,8 +1,8 @@
 #Q : Write Script to find out biggest number from given three nos. Nos are supplies as command line argument. Print error if sufficient arguments are not supplied.
 
 #filename : q2_greatest.sh
-#step 1 : paste "chmod +x q2_greatest.sh" in terminal and press enter
-#step 2 : ./q2_greatest.sh
+#step 1 : paste "chmod +x q02_greatest.sh" in terminal and press enter
+#step 2 : ./q02_greatest.sh
 
 #!/bin/bash
 echo "enter first number"
