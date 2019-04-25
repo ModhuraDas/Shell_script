@@ -1,7 +1,7 @@
 #Q : Write script to print nos as 5,4,3,2,1 using while loop.
 
-#filename : q3_loop.sh
-#command to run : bash q3_loop.sh
+#filename : q03_loop.sh
+#command to run : bash q03_loop.sh
 
 #!/bin/sh
 a=5
