@@ -1,7 +1,7 @@
 #Q : Write Script to see current date, time, username, and current directory.
 
-#filename : q5_date.sh
-#command to run : bash q5_date.sh
+#filename : q05_date.sh
+#command to run : bash q05_date.sh
 
 echo "Date and Time"
 date
