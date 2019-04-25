@@ -1,7 +1,7 @@
 #Q : Write script to print given numbers sum of all digit, For eg. If no is 123 it's sum of all digit will be 1+2+3 = 6.
 
-#filename : q7_digitsum.sh
-#command to run : bash q7_digitsum.sh
+#filename : q07_digitsum.sh
+#command to run : bash q07_digitsum.sh
 #Enter a Number: 12345
 
 
