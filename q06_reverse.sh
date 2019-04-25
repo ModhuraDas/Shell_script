@@ -1,7 +1,7 @@
 #Q : Write script to print given number in reverse order, for eg. If no is 123 it must print as 321.
 
-#filename : q6_reverse.sh
-#command to run : bash q6_reverse.sh
+#filename : q06_reverse.sh
+#command to run : bash q06_reverse.sh
 #Enter a Number: 12345
 
 echo "Enter a Number:"
